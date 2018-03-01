@@ -1,0 +1,6 @@
+click
+retry
+boto3
+fabric3
+docker
+retrying
